@@ -1,4 +1,7 @@
 package omuomu
 
-fun main(args: Array<Strign>) {
+import omuomu.BTree
+
+fun main(args: Array<String>) {
+    BTree().start()
 }
